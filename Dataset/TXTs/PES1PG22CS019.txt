@@ -1,0 +1,21 @@
+SRN: PES1PG22CS019
+VTOL (Vertical Takeoff and Landing) is a critical capability for many military and civilian aircraft, such as
+drones and helicopters. Machine learning has the potential to improve VTOL performance by enabling more
+precise control and better prediction of aircraft behavior.
+One of the key applications of machine learning in VTOL is control systems. Machine learning algorithms
+can be used to learn the optimal control policies for VTOL aircraft, which can lead to more efficient and
+accurate control. For example, reinforcement learning algorithms can be used to learn the optimal control
+policy for a VTOL drone, allowing it to fly more precisely and with less human input.
+Another application of machine learning in VTOL is prediction. Machine learning algorithms can be trained
+on historical data to predict the behavior of VTOL aircraft under different conditions. This can help improve
+safety and reliability by detecting potential issues before they occur. For example, machine learning
+algorithms can be used to predict the behavior of a helicopter during takeoff and landing in different wind
+conditions, allowing pilots to adjust their approach accordingly.
+Overall, machine learning has the potential to revolutionize VTOL by improving control, prediction, and
+safety. As the field of machine learning continues to advance, we can expect to see more sophisticated
+algorithms and applications for VTOL aircraft
+
+JEEVAN V
+5/04/2023
+
+

@@ -1,0 +1,32 @@
+SRN: PES1PG22CS045
+Vertical takeoff and landing (VTOL) refers to the ability of an aircraft to take off and land vertically without
+the need for a runway or any external support. This means that the aircraft can lift off directly from the ground
+or any other flat surface and can land in the same way, without requiring any forward speed or landing gear.
+The most common types of aircraft that use vertical takeoff and landing capabilities are helicopters, tiltrotor
+aircraft, and vertical takeoff and landing (VTOL) aircraft. These types of aircraft use different mechanisms to
+achieve vertical flight.
+Helicopters use a rotor blade to generate lift and propulsion, allowing them to hover in place and maneuver in
+any direction. Tiltrotor aircraft, on the other hand, use rotors that can tilt, allowing them to take off and land
+like a helicopter, but then transition to a more efficient airplane mode for forward flight. VTOL aircraft
+typically use jet engines or other propulsion systems to generate lift and forward motion, allowing them to
+take off and land vertically. aircraft have a number of advantages over traditional fixed-wing aircraft, including
+the ability to operate in confined spaces, the ability to operate from remote locations or ships, and the ability
+to quickly respond to emergencies or other time-critical situations. However, they also tend to be more
+complex and expensive to operate and maintain than traditional aircraft.
+They are several solutions that have been proposed to address these challenges in designing an autonomous
+air travel taxi
+Tilt-rotor technology: This involves using rotors that can tilt from a Vertical to a horizontal position, allowing
+the aircraft to takeoff and land like a helicopter, but fly like a fixed wing aircraft. The V-22 osprey is an
+example of an aircraft that uses tilt-rotor technology.
+Thrust vectoring: This involves using variable geometry nozzles on the engines to direct the thrust in different
+directions, allowing the aircraft to control its pitch, roll, and yaw. The F-35B Lightning II is an example of an
+aircraft that uses thrust vectoring.
+Lift-fan technology: This involves using a fan or set of fans to provide lift, while the engine provides thrust
+for forward flight. The Harrier Jump Jet is an example of an aircraft that uses lift-fan technology.
+
+Signature – Name – Date
+
+Shalini T
+05/04/2023
+
+

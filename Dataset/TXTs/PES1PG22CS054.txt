@@ -1,0 +1,33 @@
+SRN: PES1PG22CS054
+
+When imagining an aircraft, we mainly think of a pilot as the one controlling the aircraft in
+case of a manual one. In account of recent breakthroughs in Artificial intelligence (AI) and
+Machine Learning, now it is possible to have an aircraft completely controlled by AI. But, even
+in a human controlled aircraft, a flight control system exists to aid the pilot. Although the
+flight control system does most of the heavy lifting, it still needs a pilot to fully operate the
+aircraft. This type of flight control system is more of a flight assistance system. A true flight
+control system is one which does not need any human intervention during the operational
+phase of the aircraft. This type of system handles all the aircraft’s operations including the
+take-off and landing. Although, a fully automatic aircraft exits mainly as smaller drones, it
+won’t be long until autonomous aircrafts which can carry people to be available to the
+general public.
+VTOLs benefit from these advancements in autonomous flight technology. As mentioned
+above, even in a manual aircraft a flight control system exists, which consider the movement
+of the flight, its orientation in air, its surroundings, etc. to make spontaneous and continuous
+decisions in order to maintain the balance of the aircraft at all times. A simple explanation of
+this can be done using a quadcopter. A quadcopter has four rotors to provide lift, in order to
+keep it in the air. Four rotors because they are the most stable design. Even though they are
+highly stable, that is only compared to other drones. In a quadcopter 2 of the 4 rotors turn
+clockwise and the other 2 turn anti-clockwise. This is done to keep the drone balanced during
+flight. Even with this, a human pilot can only keep the drone in air for a very short period of
+time; this is where the flight controller comes into picture. As the pilot gives directional
+commands to the drone, like left, right, up, down; the flight control system is continuously
+giving instructions to prevent the drone from crashing. Let’s say the pilot is turning the drone
+left, a certain angle is set as threshold beyond which the drone doesn’t turn.
+
+Signature – Name – Date
+
+Vaishak P
+05/04/23
+
+

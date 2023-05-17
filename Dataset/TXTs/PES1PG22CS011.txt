@@ -1,0 +1,32 @@
+NAME: DONA BHOWAL
+SRN: PES1PG22CS011
+SUBJECT: STOCHASTIC MACHINE LEARNING
+
+Autonomous Personal Airtravel Vehicles (APAVs), also known as eVTOLs, are a new
+concept enabled by advancements in unmanned aerial vehicle technologies and electric
+propulsion. They are intended to provide on-demand flight convenience, similar to that of
+private ground vehicles, and can be used by people with no pilot qualifications. APAVs use
+electric propulsion rotors to take off and land vertically, making them suitable for densely
+packed urban environments. They are being developed for a wide range of purposes,
+including urban transport, package delivery, and military applications. APAVs have many
+benefits, including reduced pollution and noise, and the existing infrastructure can support
+their operations in many major cities.
+A reinforcement learning algorithm is well-suited for eVTOLs, as it is able to handle problems
+with infinitesimally small error rates. The system will be trained using sensory data to avoid
+collisions and maintain proper flight cabin pressures and oxygen levels. The reinforcement
+learning aspect will occur when the system makes predictions on test data, with correct
+predictions being reinforced and incorrect ones discarded. Safety and well-being of
+passengers will be the driving factor in the learning experience, with data sets being
+modified based on location and changing conditions. The weights for different parameters
+can be adjusted based on their importance to the eVTOL's operation.
+The key learning outcomes for an eVTOL learning problem involve developing domain
+knowledge required to design, implement and maintain a system in a complex and
+non-deterministic environment. This includes understanding the challenges associated with
+eVTOL, collecting and processing raw data from various sensors and external sources, and
+deploying a trained model that is scalable, available, and reliable. The model should also be
+continuously monitored to make necessary updates and improvements over time.
+
+Dona Bhowal
+05/04/2023
+
+

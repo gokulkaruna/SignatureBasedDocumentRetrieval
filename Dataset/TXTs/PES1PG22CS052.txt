@@ -1,0 +1,25 @@
+SRN: PES1PG22CS052
+
+This text discusses the design and operation of VTOL (Vertical Take-Off and
+Landing) aircraft, particularly in an urban setting with collision avoidance in a
+non-deterministic environment. The author emphasizes the importance of
+cutting-edge technology, software, and hardware solutions in constructing and
+operating such aircraft. Several factors are identified as crucial, including sensing
+and perception, navigation and planning, collision avoidance, safety and
+redundancy, and communication and control. The author suggests that creating a
+well-posed machine learning problem with performance, task, and experience
+parameters 1s one way to construct a VIOL system. Finally, the text highlights
+the advantages and future enhancements of VTOL technology, as well as its
+potential uses in various fields.
+
+According to the text, several technical and regulatory issues need to be resolved
+before VTOL aircraft can be extensively deployed. Despite this, the author notes
+the potential uses of VTOL technology in search and rescue operations,
+emergency medical services, freight and passenger transportation, military
+activities, and urban air taxis.
+
+Signature - Name - Date
+
+Suyog.L
+05/04/23
+

@@ -1,0 +1,37 @@
+SRN: PES1PG22CS002
+VTOLs are aircrafts designed to take off and land vertically, which makes them convenient for use in remote regions.
+There are different types of VTOLs including helicopters, hybrid aircrafts, cyclocopters, and thrust-vectoring fixed-wing
+aircrafts. eVTOLs are a type of VTOL that use electric power for take-off and landing and are used for short distance
+commercial flights. Several companies are working on developing efficient VTOL systems, and Volkswagen China
+released a prototype eVTOL called the Flying Tiger in 2022. The use of eVTOL aircrafts in Advanced Air Mobility (AAM)
+and Urban Air Mobility (UAM) has created opportunities for the use of Artificial Intelligence (AI) and Machine Learning
+(ML). These technologies can be applied in areas such as weather prediction, traffic congestion analysis, spatial analysis
+for landing locations, dispatching, and routing decision-making, and autonomous piloting. Developers use ML
+algorithms, including Multinomial logistic regression, Artificial Neural Networks, Random Forests, and Gradient
+boosting, to map the relationship between demand and predictor levels. Computer vision systems, like Daedalean
+AG's Raven, use ML and AI for positioning, landmark recognition, regular and emergency landing guidance, and traffic
+recognition. During testing, neural networks were used for landing guidance during emergencies. The visual positional
+system was used to track the aircraft's flight path visually using a black camera pod attached to the aircraft's nose. The
+design and operation of an autonomous personal air travel vehicle (APAV) for urban areas must consider sensing and
+perception, control and navigation, communication and integration, redundancy, and safety, as well as certification
+and regulations. The APAV should be equipped with sensors and cameras to detect and avoid obstacles, have a high
+degree of agility and manoeuvrability, communicate with other aircrafts and ground stations, include redundancy for
+safety, and comply with regulatory requirements. The machine learning problem in the context of designing an
+autonomous personal air travel vehicle (APAV) with collision avoidance systems involves the vehicle learning from
+experience E to achieve the task T of safe transportation of passengers with a performance measure P. The APAV must
+have a collision avoidance system that detects and responds to potential collisions in real-time using sensor data
+analysis, accurately identifying obstacles, and calculating their trajectory to provide alerts and path guidance to the
+VTOL control system. The VTOL must navigate through non-deterministic environments, avoid obstacles, and maintain
+safe distances from other airborne vehicles or objects, while adapting to changing environmental variables. The
+experience parameters involve training the collision avoidance system using data from various sources, including
+simulated pilot pathways, virtual flight tests, and air traffic control systems. The model must be reconfigured based
+on the feedback obtained from the training process to improve its accuracy. Thus, the use of machine learning in VTOL
+technology can improve flight control, navigation, collision avoidance, self-maintenance, and battery optimization.
+The design and operation of APAVs in urban and non-deterministic environments using collision avoidance systems
+require consideration of various parameters, including sensing & perception, control & navigation, communication &
+integration, redundancy & safety, and certification & regulations. The collision avoidance system's performance
+parameter should accurately detect potential collisions and redirect the VTOL to a safe path. The task parameter
+requires preventing collisions during take-off, landing, and flight. The experience parameter involves using data from
+flight tests, virtual flight tests, and other sources to train the collision avoidance system.
+
+

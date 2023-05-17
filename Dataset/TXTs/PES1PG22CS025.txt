@@ -1,0 +1,23 @@
+SRN: PES1PG22CS025
+Autonomous Personal Air-Travel Vehicles (APAVs), also known as Vertical Take-Off and
+Landing (VTOL) aircraft, are vehicles that can depart, hover, and land vertically. They can be
+powered by electric motors or batteries instead of fuel, making them more cost-effective and
+flexible, as they can land almost anywhere.
+To develop a model to control a flying vehicle for safe, efficient, and autonomous travel in urban
+environments, a well-posed machine learning problem should be defined. The task is to create
+an algorithm that allows the vehicle to fly autonomously based on its own sensors,
+environmental data, and previous learning experience. The performance of the model can be
+evaluated by measuring its ability to transport a passenger safely and efficiently while
+minimising travel time and energy consumption. The experience can be broken down into
+perception, planning trajectory, and managing. The algorithm should be trained using
+supervised and reinforcement learning methods, with training data including different flight
+scenarios.
+Machine learning algorithms can be used to optimise eVTOL flight control systems, leading to
+increased safety, decreased energy use, and improved flying stability. Predictive maintenance
+can be achieved by analysing data acquired by eVTOL sensors to forecast component failures
+before they occur. Resource management, such as battery life, energy use, and cargo capacity,
+can also be improved with machine learning.
+In conclusion, machine learning in eVTOLs can result in better performance, higher safety, and
+lower prices, increasing the viability of these aircraft as a transportation option in the future.
+
+

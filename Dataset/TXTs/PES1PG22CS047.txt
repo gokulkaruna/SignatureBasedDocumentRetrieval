@@ -1,0 +1,37 @@
+SRN: PES1PG22CS047
+An Autonomous Personal Airtravel vehicle (APAV) is a kind of airplane intended for individual or little
+gathering transportation that is completely independent, meaning it can work without the requirement for a
+human pilot. The idea of APAVs has acquired prominence as of late as a likely answer for metropolitan
+transportation challenges, as they might actually sidestep gridlock and proposition quicker and more
+straightforward courses than ground-based transportation. APAVs are regularly electric-fueled and intended
+to be little and lightweight, with vertical departure and landing capacities, like a helicopter or a robot. They
+are likewise furnished with cutting edge route frameworks and sensors, permitting them to distinguish and
+stay away from obstructions and other airplane in the airspace. Despite the fact that APAVs are still in the
+advancement stage, a few organizations and associations are effectively dealing with putting up them for
+sale to the public. The administrative system for APAVs is as yet being created, as their mix into the airspace
+presents a scope of specialized and wellbeing provokes that should be tended to. The output of the machine
+learning model is the personal autonomous aircraft control commands. These commands guide the vehicle
+to its destination along the safest and most efficient route, avoiding obstacles and other hazards. The
+production of the model is overseen by a personal user who can override machine decisions in emergency
+situations. The system also has a fail-safe mechanism to ensure passenger safety in the event of unexpected
+events. Overall, the machine learning model is expected to enable the safe and efficient deployment of
+autonomous passenger aircraft and provide a faster and more convenient mode of transportation in urban
+areas. The collision avoidance problem for personal air transport vehicles can be solved by machine learning
+models that can analyze real-time data from various sensors, including LiDAR, radar, and cameras, and
+make decisions about how to avoid obstacles along the way. In general, the goal of the machine learning
+problem is to develop a model that can optimize the flight path of personal aircraft in real time while
+ensuring the safety of passengers and other vehicles in space. The model must be able to handle a variety
+of scenarios, including changes in weather conditions and unexpected obstacles in the vehicle's trajectory.
+In summary, the development of autonomous personal aircraft has the potential to revolutionize the way
+we get around and travel. These vehicles would provide a faster, more efficient, and more convenient mode
+of transportation for people, avoiding the congestion and limitations of ground transportation. However,
+the widespread adoption of these vehicles will depend on a number of factors, including the development
+of safe and reliable autonomous technology, the establishment of appropriate regulations and infrastructure,
+and the affordability and accessibility of the vehicles. If these challenges can be overcome, autonomous
+personal aircraft could become a viable and sustainable transport option in the future, offering significant
+advantages in terms of mobility, comfort and environmental impact.
+
+SHARATH R
+05/04/2023
+
+

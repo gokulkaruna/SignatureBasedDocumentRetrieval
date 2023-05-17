@@ -1,0 +1,27 @@
+SRN: PES1PG22CS013
+Vertical take-off and landing (VTOL) aircraft can take off, hover, and land vertically without relying on a
+runway. Electric VTOL (eVTOL) aircraft use electric power to hover, take off, and land vertically, and can have
+applications in civilian usage for urban commute, air taxi, delivery, medical assistance, and military. Wellposed machine learning problems, such as designing and training a machine learning model that can function
+as an autonomous system capable of safely flying air taxis in real-time avoiding collisions, are crucial in
+machine learning projects. The three important components of a well-posed learning problem are the task,
+performance measure, and experience. In the case of autonomous personal air travel vehicles (APAVs), the
+task is to fly the eVTOL/air-taxi safely and efficiently, while the performance measure includes factors such
+as travel time, passenger comfort, and energy consumption. The experience can be historical data of labelled
+examples of sensor readings and corresponding control commands provided by the pilot or training
+experience provided by reinforcement learning. Defining a well-posed machine learning problem helps to
+ensure clarity, appropriate data collection and analysis, accurate and efficient model selection and training,
+and efficient allocation of resources.
+The objective of the Autonomous Personal Air Travel Vehicle (APAV) project is to design and train a machine
+learning model that can function as an autonomous system for air taxis. The well-posed machine learning
+problem involves defining the task of safely and efficiently flying the eVTOL aircraft while passengers are on
+board, the performance measure of minimizing travel time while ensuring passenger comfort and safety,
+and the experience of historical data and reinforcement learning. Defining this problem statement helps to
+ensure clarity, appropriate data collection and analysis, efficient model selection and training, and allocation
+of resources.
+
+Signature – Name – Date
+
+Gokul K
+05/04/23
+
+

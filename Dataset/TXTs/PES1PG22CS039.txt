@@ -1,0 +1,28 @@
+SRN: PES1PG22CS039
+
+These aircraft are powered by electric motors and use a combination of vertical lift and forward thrust to
+achieve flight. Because e-VTOL aircraft are powered by electricity, they are much quieter, more efficient, and
+produce fewer emissions than conventional aircraft that use fossil fuels. In the military, e-VTOL aircraft used
+in recon, surveillance, and transport For the civilians e-VTOL aircraft are being designed for transportation
+of goods and passengers within cities. One advantage of these aircraft is that it can reduce the traffic
+congestion and thereby lead to shorten travel times by flying over traffic instead of being stuck in the traffic.
+Few of the challenges that needs to be addressed as soon as possible is the charging station infrastructure
+and the landing place which should be safe and accessible easily, battery technology and e-vtol is still in its
+early stage of development so safety concerns. Some startup companies that are currently developing eVTOL and with range they have achieved are Joby aviation (aircraft with 150miles of range), Lilium (aircraft
+with 186 miles of range), Volocopter (22 miles of range).The concept of a fully autonomous passenger
+aircraft is still largely speculative and would likely face significant technical, regulatory, and social challenges
+before becoming a reality. Machine learning can play a crucial role in the development of APAV. Some uses
+are use of AIML for object detection and avoiding collisions, navigation(to take the most efficient path),
+weather prediction, system and parts checking(predict which part will fail in near future, decision making(to
+know where to land. It should also ensure that it is taking the shortest distance possible and not to take long
+route in order to avoid collisions thereby decreasing the efficiency of the model. From the above well posed
+learning problem we have learnt that: Improved Flight navigation: By formulating a learning problem we can
+optimize flight path navigation, the vehicle will learn to take responsible decisions for factors such as weather
+conditions and obstacles to plan the most efficient and safest route.
+
+Signature – Name – Date
+
+RAKSHITH HEGDE KS
+05/04/23
+
+

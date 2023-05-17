@@ -1,0 +1,18 @@
+SRN:PES1PG22CS017
+NAME: HARSHITHA GN
+A vertical takeoff and landing (VTOL) aircraft is a vehicle that can depart, hover and land
+vertically. VTOL aircraft have the ability to take off and land vertically as well as hover, fly
+slowly and land in small spaces. Modern UAVs have their own limitations in terms of flight
+range and maneuverability, with traditional fixed-wing UAVs requiring runways or wideopen spaces for take-off and landing, while multirotor UAVs are extremely manoeuvrable
+but cannot be used for long-distance flights. Early UAVs were divided into two types, Fixed
+Wing UAV (FWUAV) and Rotorcraft UAV (RUAV). EVTOL is a hybrid Vertical-TakeOff-Landing (VTOL) aircraft that can bridge the performance gap between RUAVs and
+FWUAVs. It has multiple motors to maximize efficiency and safety, and is being fine-tuned
+to bring alive the concept of UAM. The tilt-rotor mechanism is only one of the concepts that
+have been proven for successful VTOL flights, and other concepts are being explored to
+incorporate into similar hybrid VTOL aircraft's. VTOL machinery is a key element to ensure
+the VTOL capability of the four motors with rotary blade stability to lift the load.
+
+NAME:HARSHITHA GN
+DATE:5TH APRIL,2023
+
+

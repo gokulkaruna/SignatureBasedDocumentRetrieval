@@ -1,0 +1,15 @@
+SRN: PES1PG22CS001
+
+The article discusses the Internet of Things (IoT), which refers to internet-connected objects that collect and
+transfer data without human intervention. IoT devices can provide data and insights to streamline workflows,
+automate processes, meet compliance requirements, and compete more effectively in a changing business
+environment. The four main components of IoT are low-power embedded systems, cloud computing, big data,
+and networking connection. The article proposes a model to make farming more attractive by using available
+technologies to help farmers decide on crops, maintain their land, and sell crops at proper prices. However,
+farmers need to be trained and made aware of these technologies. India's agriculture industry uses various
+farming systems, including subsistence, organic, and mechanical farming, and is highly dependent on the
+monsoon cycle for large crop yields. India is the second-largest producer of various crops and has the largest
+number of animals in the world. The article also notes that farmers in India tend to follow traditional methods
+of farming and rely on luck for crop yields and market prices.
+
+

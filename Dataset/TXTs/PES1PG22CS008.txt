@@ -1,0 +1,25 @@
+NAME: CHAITALI VINOD CHAUDHARY
+SRN: PES1PG22CS008
+SUBJECT: STOCHASTIC MACHINE LEARNING
+
+This report discusses the design and operation of Autonomous Personal Air Travel Vehicles
+(APAV), also known as eVTOL aircraft, which use electric power to take off and land
+vertically. The report outlines the considerations involved in designing an APAV, such as
+size, weight, propulsion, avionics, and control systems. It also discusses the critical aspects
+of APAV's safe and efficient operation, such as flight planning, navigation, and
+communication. The report defines the machine learning problem for an APAV, which
+involves designing an algorithm to ensure collision avoidance in a non-deterministic
+environment using real-time data from sensors and navigation systems. The report
+concludes that further advancements in technology and continued research in machine
+learning have the potential to revolutionise the transportation industry.
+The key learning outcomes for an eVTOL learning problem involve developing domain
+knowledge required to design, implement and maintain a system in a complex and
+non-deterministic environment. This includes understanding the challenges associated with
+eVTOL, collecting and processing raw data from various sensors and external sources, and
+deploying a trained model that is scalable, available, and reliable. The model should also be
+continuously monitored to make necessary updates and improvements over time.
+
+Chaitali Chowdhary
+05/04/2023
+
+

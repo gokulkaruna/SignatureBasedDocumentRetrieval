@@ -1,0 +1,21 @@
+SRN: PES1PG22CS057
+
+Summary of VTOL
+VTOL stands for Vertical Take-Off and Landing, and refers to a type of aircraft that is able to take off and land
+vertically, without the need for a runway or other infrastructure. This is accomplished through the use of
+rotors or jet engines that can be tilted to provide lift and propulsion in any direction.
+VTOL aircraft have a number of advantages over traditional fixed-wing aircraft, including the ability to
+operate in areas where there is no runway or other infrastructure, and the ability to hover in place for
+extended periods of time. They are commonly used in military applications such as reconnaissance and air
+support, as well as in civilian applications such as search and rescue, emergency medical transport, and
+transportation of goods.
+There are several types of VTOL aircraft, including helicopters, tiltrotors, and vertical takeoff and landing
+(VTOL) jets. Each type has its own set of advantages and disadvantages, and is suited to different types of
+missions and environments.
+
+Signature – Name – Date
+
+Vishal G Hegde
+05/04/2023
+
+

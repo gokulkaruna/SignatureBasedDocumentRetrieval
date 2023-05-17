@@ -1,0 +1,39 @@
+PES1PG22CS055
+
+VTOL (Vehicle Takeoff and Landing) is a concept that refers to the ability of an aircraft take
+off and land vertically without requiring a runway. In the context of machine learning, the
+VTOL problem statement involves developing algorithms and models to enable an aircraft to
+achieve stable and controlled vertical takeoff and landing. The goal of a VTOL machine
+learning system is to enable the aircraft to safely and accurately perform vertical takeoff and
+landing in a wide range of scenarios, including in high winds, low visibility, and other
+challenging conditions. Achieving this goal requires advanced algorithms and models that can
+process large amount of sensor data in real - time and make precise control decisions based on
+that data.
+
+To achieve this, the model would need to take inputs from various sensors and information
+sources, such as the drone's position that velocity, wind speed, altitude, battery level and
+camera feeds. The model would then use this information to predict the optimal actions to take
+in real-time, such as adjusting the drone's thrust, pitch roll and yaw. This can be formulated as
+a supervised learning problem where a labeled dataset of drone movements and sensor inputs
+1s used to train a model. Alternatively, it can be framed as a reinforcement learning problem
+where the model learns through trial and error by receiving feedback signals or rewards for
+each action taken.
+
+Overall, the VTOL problem as a machine learning task requires a combination of sensor
+fusion, control theory, and optimization algorithms to ensure safe and effective operation of
+the drone.
+
+Dependability is the key driver for the megatrend towards autonomous driving. The future car
+is fully connected and always online. It is all electronic and autonomous. The increased need
+for safe electric systems in vehicles that drivers and passengers can rely on his the foundation
+of trust and shapes the future towards higher levels of automated driving. Winning the trust of
+tommorow's passangers starts with dependable electronics that enable highly available,
+dependable, robust, safe and secure systems that operate in all conditions.
+
+Infineon is a trusted partner offering all relevant ingredients for dependable systems, including
+automotive quality, functional safety, cybersecurity, innovative products, system
+understanding, and operational excellence.
+
+Vidya M
+05/04/2023
+

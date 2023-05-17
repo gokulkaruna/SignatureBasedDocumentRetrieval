@@ -1,0 +1,20 @@
+SRN: PES1PG22CS044
+Electric vertical takeoff and landing (eVTOL) aircraft have been a topic of much interest and investment in
+recent years. These aircraft promise to revolutionize urban air mobility by providing a fast, efficient, and
+environmentally friendly way to travel short distances within cities. In this article, we will take a closer look
+at how eVTOL aircraft work and what makes them unique.
+First, it is important to understand that eVTOL aircraft are a type of electric aircraft that use electric motors
+to power rotors or propellers. These aircraft have no traditional combustion engines or jet turbines, and they
+rely solely on batteries for power. This makes them much quieter and more environmentally friendly than
+traditional aircraft.The design of eVTOL aircraft is also unique. They typically have multiple rotors or
+propellers that allow for vertical takeoff and landing, as well as forward flight. This means that eVTOL aircraft
+can take off and land in much smaller spaces than traditional aircraft, making them ideal for urban
+environments.
+There are two main types of eVTOL aircraft: multicopters and tiltrotors. Multicopters have multiple rotors
+that are fixed in place and can rotate independently to control the aircraft's movement. Tiltrotors, on the other
+hand, have rotors that can tilt to provide both vertical and forward thrust.
+
+SANJANA SN
+5/04/2023
+
+

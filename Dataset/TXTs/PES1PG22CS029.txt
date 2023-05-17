@@ -1,0 +1,37 @@
+SRN: PES1PG22CS029
+
+A plane that can take off and land vertically, without using a runway, is referred to as a VTOL
+(Vertical Take-Off and Landing) aircraft. More flexibility in aircraft operations is made
+possible by this capability, which is particularly beneficial for military and rescue operations
+as well as for air transportation in cities. VTOL aircraft come in a variety of designs, including
+as tiltrotor, tiltwing, and vectored thrust. In order to enable both vertical takeoff and landing
+and horizontal flying, tiltrotor aircraft have rotors that can tilt between the vertical and
+horizontal positions. Whereas vectored thrust aircraft utilise engines that can tilt to adjust the
+direction of thrust, tiltwing aircraft feature wings that can tilt between the vertical and
+horizontal positions.
+When we think of an aircraft, we typically picture a pilot as the person in charge of flying it
+manually. Now that artificial intelligence (AI) and machine learning have made significant
+strides, it is conceivable to have an aircraft that is entirely operated by AI. Yet, there is a flight
+control mechanism to help the pilot even in a human-controlled aircraft. Although the flight
+control system does the most of the work, a pilot is still required to operate the aircraft to its
+maximum potential. This kind of flight aid system functions more like a flight control system.
+A real flight control system does not require any input from the pilot while the aircraft is in
+flight. This maintains the drone's balance while in flight. Even with this, a human pilot can
+only maintain control of the drone for a very short time; this is where the flight controller
+comes into play. While the pilot directs the drone in various directions—left, right, up, and
+down—the flight control system is constantly providing guidance to keep the drone from
+colliding. Assuming the drone is being turned left by the operator, the drone will not turn if
+the angle is exceeded. Military and defence applications have pushed the development of
+VTOL technology, with many nations investing considerably in research and development.
+But, the civilian sector is also seeing an increase in applications, particularly in the fields of
+logistics and transportation. Urban air mobility is being developed by businesses like Uber and
+Airbus, and it has the potential to revolutionise urban travel. Overall, VTOL technology has
+the ability to transform the aviation sector and present fresh opportunities for future logistics
+and transportation.
+
+Signature – Name – Date
+
+Naveen G Ganapa
+05/04/23
+
+

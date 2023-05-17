@@ -1,0 +1,21 @@
+SRN :- PES1PG22CS040
+
+Cumulative foot pressure image is a technique that has been researched in recent years as a way to
+identify individuals in video surveillance systems. This technique works by analyzing the pressure
+distribution on the ground when a person walks, which can be captured using specialized sensors
+embedded in the floor or footwear. By analyzing the pressure distribution over time, it is possible to
+create a unique "footprint" for each individual, which can be used to identify them in subsequent
+video footage. This technique has several advantages over other identification methods, such as
+facial recognition, as it is less affected by changes in lighting and posture, and is less susceptible to
+spoofing or impersonation. However, there are also some limitations to using cumulative foot
+pressure image summary for identity recognition. For example, it requires specialized sensors or
+footwear, which can be expensive and difficult to install. Additionally, it may not be suitable for
+crowded areas or areas with high foot traffic, as it may be difficult to accurately track individual
+footprints. Overall, while cumulative foot pressure image summary shows promise as a way to
+improve identity recognition in video surveillance systems, more research is needed to address its
+limitations and to determine its effectiveness in real-world applications.
+
+S P KAVERI
+05-04-23
+
+

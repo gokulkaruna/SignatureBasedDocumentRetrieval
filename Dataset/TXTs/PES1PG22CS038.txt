@@ -1,0 +1,29 @@
+SRN: PES1PG22CS038
+
+Summary about Traffic Sign Detection and Recognition (completely written by ChatGPT 4)
+This text discusses the importance of traffic sign recognition in improving road safety,
+particularly in developing countries such as India, where traffic accidents resulting in
+fatalities are a common occurrence. Traffic sign recognition systems can help drivers by
+identifying and warning them of potential dangers, providing navigation and driving safety,
+and detecting and recognizing traffic signs in real-time using machine learning algorithms
+such as SVM, KNN, and Random Forest.
+However, the key disadvantage of these algorithms is that feature extraction must be done
+separately. Hence, the proposed system employs a convolutional neural network (CNN) to
+perform feature extraction on its own. The system has two stages: traffic sign detection and
+traffic sign recognition, where the former concerns the location and size of traffic signs in
+the traffic scene images, and the latter pays close attention to the classification of the exact
+class the traffic signs belong to.
+Color-based traffic sign detection methods, based on the strict color scheme of traffic signs,
+are shown to be the most straightforward and simplest method, but they often fail to
+achieve better results due to strong light, poor light, and other adverse weather conditions.
+The TSDR system is still an ongoing research work, and more and more approaches are
+being invented and suggested to improve the TSDR in all aspects.
+
+Signature
+
+Name: Rahul N Dev
+Date: 05-04-2023
+:
+John
+
+

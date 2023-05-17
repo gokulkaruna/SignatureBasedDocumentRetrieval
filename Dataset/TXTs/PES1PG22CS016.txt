@@ -1,0 +1,26 @@
+SRN: PES1PG22CS016
+The article discusses the concept of autonomous personal air vehicles (APAVs), specifically
+focusing on electric vertical take-off and landing (eVTOL) aircraft. It explains how eVTOLs
+use electric power to operate multiple motors that power the propellers for takeoff and
+landing, wings for gliding, and large batteries to store energy.
+These aircraft can travel up to 150 miles on a single charge, fly at speeds up to 200 miles per
+hour, and do not require runways.The basic components of eVTOLs are batteries, electric
+motors, and sensors like LIDAR, radars, ultrasonic, and electronic controllers.
+Machine learning is highlighted as a critical aspect of eVTOL development, with various
+applications mentioned. Machine learning can be used to forecast weather patterns, traffic
+congestion, and optimal landing locations, enabling people to travel quickly by air.
+Transporting people and cargo between areas not currently or easily served by surface
+transportation or existing aviation modes is the goal of AAM, a new concept in air
+transportation utilizing electric vertical takeoff and landing (eVTOL) aircraft
+It can also be applied to create a system capable of intelligent, real-time dispatching and
+routing decisions for aircraft, which can reduce customer ride time and costs. Furthermore,
+machine learning can also be used for precision landing and air traffic control automation.t.
+The article also discusses the potential market for eVTOL in agriculture, emergency medical
+services, and logistics. When creating successful products, manufacturers should consider
+factors such as cost, distance, and charging, which have an impact on design. Manufacturers
+should also monitor and make necessary adjustments to improve the product over time.
+
+Harshita Bhayre
+05/04/23
+
+

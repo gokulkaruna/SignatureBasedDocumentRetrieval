@@ -1,0 +1,28 @@
+SRN: PES1PG22CS005
+
+The article discusses the problem of designing autonomous air taxis that can operate safely in non-deterministic
+environments. The performance measure for these taxis is to minimize the number of collisions and near misses
+with obstacles such as buildings, humans, and other aircraft. To accomplish this task, the taxis must be equipped
+with various sensors, flight control systems, emergency landing systems, and weather monitoring systems. The
+communication and coordination systems are also crucial for safe and efficient operation.
+
+The problem can be framed as a Reinforcement Learning Algorithm, which is a type of machine learning that
+involves finding an optimal policy that maps states to actions to maximize a cumulative reward signal. In the context
+of collision avoidance for air taxis, the state is defined as the current position and velocity of the taxi, as well as the
+position of other objects in the environment. The action can be to accelerate, decelerate, or maintain the current
+speed and direction. The reward can be a negative value if the taxi collides with an object or a positive value if it
+successfully avoids a collision.
+
+The Q-learning algorithm is a reinforcement learning algorithm that can be used to solve the problem of collision
+avoidance. In this algorithm, the Q-table is updated for each iteration based on the rewards received for each action
+taken in each state. The discount factor is used to calculate the discounted future reward for each action in each
+state. The updated Q-values are used to determine the optimal policy for the taxi.
+
+In summary, designing autonomous air taxis that can operate safely in non-deterministic environments is a
+challenging task that requires the integration of various systems such as sensors, flight control systems, emergency
+landing systems, and weather monitoring systems. The problem can be solved using a reinforcement learning
+algorithm such as the Q-learning algorithm, which involves finding an optimal policy that maps states to actions to
+maximize a cumulative reward signal.
+
+— Sattvik— 5/4/2023
+

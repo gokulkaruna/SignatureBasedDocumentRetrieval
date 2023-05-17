@@ -1,0 +1,24 @@
+SRN: PES1PG22CS036
+The report discusses the potential of eVTOLs (electric vertical takeoff and landing) in the
+aviation industry and how the combination of AI and machine learning can benefit this
+industry.
+The basic components of eVTOLs are batteries, electric motors, and sensors like LIDAR,
+radars, ultrasonic, and electronic controllers.
+The report also highlights the use of machine learning algorithms like neural networks in
+detecting, identifying, recognizing, classifying, locating objects, and predicting their
+movement.
+The report discusses how machine learning can be used to avoid collision in eVTOLs, which
+will rely on a navigation system based on multiple cameras and LIDAR.
+The report also highlights the use of machine learning in improving eVTOLs' performance
+and measuring their experience by capturing images using LIDAR and sensor readings.
+Furthermore, the report describes the potential use cases of eVTOLs in the market today, such
+as forecasting traffic congestion in real-time and determining optimal landing locations.
+It also discusses how machine learning can assist in continuous scanning of the sky for airborne
+hazards and traffic, precision landing, and providing critical insights.
+Overall, the report suggests that the integration of AI and machine learning in eVTOLs can
+lead to safer and more efficient air transportation.
+
+Raj Rachani
+05/04/2023
+
+

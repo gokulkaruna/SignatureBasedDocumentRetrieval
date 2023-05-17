@@ -1,0 +1,27 @@
+SRN: PES1PG22CS028
+The article describes APAVs or eVTOLs, which are aircraft that use electric propulsion rotors to take off and
+land vertically like helicopters. They are designed to provide on-demand flying convenience and are not
+operated by pilots. Several businesses have invested in the concept of APAVs, and studies suggest that they
+can run effectively without requiring major adjustments to the current infrastructure. The benefits of using
+eVTOLs include producing less pollution and less noise, which is crucial in metropolitan areas. The problem
+statement highlights the safety concerns associated with self-driving vehicles, which must scan their
+surroundings to make decisions using perception and decision-making technologies.
+The task involves predicting the best flight pathways and energy consumption of APAVs based on factors
+such as payload weight, weather, flight lengths, and battery capacity. The model's performance is measured
+based on securely and effectively transporting passengers with the least energy consumption, as well as
+reacting to changing environmental factors and unforeseen circumstances. The training data for the APAV
+includes weather patterns, sensor readings, and photographs, as well as air traffic reports, flying route
+limitations, altitude restrictions, and distance caps. A reinforcement learning method is suggested for the
+learning system, using supervised learning and reinforcement learning techniques, with training data including
+various flying scenarios, including regular and emergency situations.
+The summary states that the task involves predicting the best flight pathways and energy consumption of
+APAVs based on several factors, with performance measured based on secure and efficient passenger
+transportation with minimal energy consumption. The model's training data includes weather patterns, sensor
+readings, air traffic reports, and other information. The learning system suggested is reinforcement learning,
+with training data including various scenarios, regular and emergency, using supervised and reinforcement
+learning techniques.
+
+Muneeb Ahmed Khan
+05/04/23
+
+

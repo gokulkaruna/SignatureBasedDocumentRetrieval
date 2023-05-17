@@ -1,0 +1,36 @@
+SRN: PES1PG22CS012
+OpenAI has unveiled its new technology, GPT-4, an improvement on the original technology that
+powers the company's chatbots. GPT-4 is designed to be the underlying engine that powers chatbots
+and all sorts of other systems, from search engines to personal online tutors. OpenAI's new
+technology still has some of the strangely human-like shortcomings that have vexed industry
+insiders and unnerved people who have worked with the newest chatbots. Other tech companies are
+likely to include GPT-4's features in an array of products and services, including Microsoft's
+software for performing business tasks and e-commerce sites that want to give customers new ways
+of virtually trying out their products. Like similar technologies, the new system sometimes
+"hallucinates", generates completely false information without warning.
+GPT-4 is a neural network that learns by analysing large amounts of data, much like Siri and selfdriving cars. It was launched four months after ChatGPT, which caused a stir in the tech industry.
+The rapid improvements in AI have stunned computer scientists, and OpenAI's progress has created
+unpredictable moments in the industry. Other tech companies, including Microsoft, Google, and
+Facebook, are also working on their own AI technology. The development of chatbots and AI is
+shifting behaviour in education and work, and they are on the cusp of changing the nature of work.
+GPT-4, a powerful language model that can write computer programs and perform various business
+tasks. GPT-4 is a neural network that can learn skills by analysing vast amounts of data, including
+books, Wikipedia articles, chat logs, and other internet postings. Like similar technologies, GPT-4
+can complement skilled workers rather than replace them, and it has the potential to create new jobs
+while displacing others.
+Companies like Morgan Stanley Wealth Management and Khan Academy are already using GPT-4
+to build systems that will instantly retrieve information from company documents and serve it up to
+financial advisors in conversational prose and to build an automated tutor, respectively. OpenAI's
+new chatbot, which uses GPT-4, can respond to images, providing a detailed, paragraphs-long
+description of the image and answering questions about its contents. OpenAI executives have not
+released the image description part of the technology because they are unsure how it could be
+misused. Building and serving up chatbots is expensive, but OpenAI plans to build and deploy
+systems that can handle multiple types of media, including sound and video as well as text and
+images.
+
+Signature – Name – Date
+
+Dyuthi Sanjeev
+05/04/23
+
+

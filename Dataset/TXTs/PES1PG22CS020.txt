@@ -1,0 +1,21 @@
+SRN: PES1PG22CS020
+This report discusses the concept of autonomous personal air vehicles (APAVs), specifically
+electric vertical take-off and landing (eVTOL) aircraft. It explains that eVTOLs use electric
+power and multiple electric motors to power propellers and wings for takeoff, landing, and
+flying.
+The report then goes on to discuss the potential applications of machine learning in the
+eVTOL market, including weather forecasting, traffic congestion analysis, optimal landing
+location determination, real-time dispatching and routing decisions, precision landing, and
+air traffic control.
+The report also mentions the potential markets for eVTOLs in agriculture, emergency medical
+services, and logistics. The learning outcomes of the report are that machine learning is an
+important aspect of VTOL and can be used to create new products and changes in the VTOL
+and eVTOL sector while reducing labour and costs.
+The report advises that manufacturers should consider various factors, such as cost, distance,
+and charging, when creating successful products and maintain monitoring to make necessary
+adjustments and improve over time.
+
+Joshi Balkrishna
+05/04/2023
+
+

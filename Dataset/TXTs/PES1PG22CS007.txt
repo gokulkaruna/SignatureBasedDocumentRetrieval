@@ -1,0 +1,32 @@
+SRN: PES1PG22CS007
+Nanorobotics is a field of science and engineering that involves the design,
+fabrication, and control of robots or machines at the nanometer scale (1 to 100
+nanometers). These machines are so small that they can interact with individual
+cells, proteins, and molecules, allowing for precise control and manipulation of
+matter at the molecular level.
+The development of nanorobotics has been driven by advances in
+nanotechnology, materials science, and computer science. Nanorobots can be
+made from a variety of materials, including metals, polymers, and biological
+molecules, and can be powered by a range of energy sources, such as light, heat,
+or magnetic fields.
+Nanorobots have a wide range of potential applications in fields such as
+medicine, electronics, and manufacturing. In medicine, nanorobots could be
+used for targeted drug delivery, cancer treatment, and minimally invasive
+surgeries. In electronics, they could be used to manufacture smaller and more
+efficient devices, such as computer chips and sensors. In manufacturing, they
+could be used to assemble and manipulate materials at the nanoscale, allowing
+for the development of new materials with unique properties.
+One of the major challenges in the field of nanorobotics is developing methods
+for controlling and manipulating these tiny machines. Researchers are
+developing new technologies, such as microelectromechanical systems (MEMS),
+to create nanorobots that can be remotely controlled and guided through the
+body or other environments.
+Overall, nanorobotics is an exciting and rapidly growing field that has the
+potential to revolutionize many areas of science and technology. However,
+significant research and development are still needed to overcome the
+challenges associated with designing and controlling these tiny machines.
+
+B CHETAN KUMAR
+05/04/2023
+
+

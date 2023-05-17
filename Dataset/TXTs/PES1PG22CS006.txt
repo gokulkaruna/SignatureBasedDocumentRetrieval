@@ -1,0 +1,19 @@
+SRN: PES1PG22CS006
+An Autonomous Personal Air Travel Vehicle (APAV) is a type of aircraft that is
+designed to transport individuals from one location to another without the need
+for a human pilot. APAVs are equipped with advanced sensors and computer
+systems that allow them to navigate through the air and avoid obstacles.
+These vehicles are often smaller than traditional aircraft and are designed for
+shorter distances, such as commuting within a city or traveling between nearby
+towns. Some APAVs are designed for vertical takeoff and landing, which allows
+them to take off and land in small spaces, such as rooftops or parking lots.
+APAVs are expected to offer several benefits over traditional modes of
+transportation, including reduced traffic congestion, faster travel times, and
+improved air quality. However, there are also several challenges that need to be
+addressed, such as ensuring safety and developing the necessary infrastructure
+to support widespread adoption.
+Overall, APAVs represent an exciting new development in transportation
+technology that has the potential to revolutionize the way we travel in the
+future.
+
+

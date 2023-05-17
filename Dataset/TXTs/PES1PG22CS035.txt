@@ -1,0 +1,18 @@
+SRN: PES1PG22CS035
+
+It sounds like the Health Consultant application is a very useful and convenient tool for
+patients to access medical advice and treatment. By automating the process, patients no
+longer have to wait in line for appointments, physically visit doctors' offices, or carry around
+physical documents. Instead, they can easily access their medical information and interact
+with medical consultants from the comfort of their own homes.
+The five modules of the application seem well-designed and cover all the necessary aspects
+of patient care, from registration and login to doctor details and prescription management.
+The admin module is particularly important as it allows authorized personnel to manage all
+patient and medical information.
+Overall, the Health Consultant application seems like a great solution to improve access to
+medical care and make it more convenient for patients.
+
+Rabia Nasreen
+05/04/23
+
+
